@@ -1,0 +1,17 @@
+table{
+    width: 400px;
+}
+
+table, th, tr, td {
+    border: 1px solid black;
+}
+
+ul{
+    text-align: left;
+    position: relative;
+}
+
+
+
+
+   
